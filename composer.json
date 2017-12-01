@@ -1,0 +1,14 @@
+{
+    "name": "TrackTik PHP Test",
+    "description": "Test for PHP developer at TrackTik",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+		"files": ["config/MyConstant.php"],
+		"psr-4": {
+				"CustomClass\\":"class/",
+				"CustomInterface\\":"class/"
+			}
+    }
+}
