@@ -45,7 +45,29 @@ header address p{
 	font-weight: bold;
 }
 
+.body h1{
+	font-family: 'Montserrat', 'Open sans', sans-serif;
+	font-weight: bold;
+	/*font-size: 32px;*/
+	 /* 34px */
+	font-size: 26px;
+	letter-spacing: -2px;
+}
 
+.body h2{
+	font-family: 'Montserrat', 'Open sans', sans-serif;
+	font-weight: normal;
+	color: #30363a;
+	font-size: 21px; /* 26px */
+	letter-spacing: -1px;
+}
+
+.body h3{
+	font-family: 'Montserrat', 'Open sans', sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	color: #30363a;
+}
 
 /* Body */
 section.body{
@@ -95,30 +117,6 @@ section.body.container.microwave_extras {
     margin-bottom: 10px;
 }
 
-
-.body h1{
-	font-family: 'Montserrat', 'Open sans', sans-serif;
-	font-weight: bold;
-	/*font-size: 32px;*/
-	 /* 34px */
-	font-size: 26px;
-	letter-spacing: -2px;
-}
-
-.body h2{
-	font-family: 'Montserrat', 'Open sans', sans-serif;
-	font-weight: normal;
-	color: #30363a;
-	font-size: 21px; /* 26px */
-	letter-spacing: -1px;
-}
-
-.body h3{
-	font-family: 'Montserrat', 'Open sans', sans-serif;
-	font-weight: normal;
-	font-size: 16px;
-	color: #30363a;
-}
 
 .extras_details {
     margin-top: 15px;
