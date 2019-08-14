@@ -1,6 +1,6 @@
 {
-    "name": "TrackTik PHP Test",
-    "description": "Test for PHP developer at TrackTik",
+    "name": "PHP sample",
+    "description": "PHP sample code",
     "require": {
         "php": ">=5.3.3"
     },
